@@ -397,3 +397,5 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 .vscode
+../Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.
+GeneratedMSBuildEditorConfig.editorconfig
